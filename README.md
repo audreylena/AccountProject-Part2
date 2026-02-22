@@ -24,7 +24,7 @@ Input validation and user interaction
 
 Makefile-based compilation
 
-Improvements From Previous Version
+Improvements From the Previous Version
 
 Refactored class relationships for clearer structure
 
